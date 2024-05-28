@@ -1,11 +1,9 @@
 {
-  "name": "usage",
-  "version": "0.1.5",
-  "description": "",
+  "name": "testealanusage",
+  "version": "0.0.1",
   "main": "index.js",
   "dependencies": {
     "alpha": "^0.1.5",
     "beta": "^0.1.5"
-  },
-  "gitHead": "1fa00f6144a3dd41dfa839b6bb7fae826d031701"
+  }
 }
