@@ -1,9 +1,9 @@
 {
   "name": "testealanusage",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "index.js",
   "dependencies": {
     "testealanalpha": "^1.0.2",
-    "testealanbeta": "^1.0.0"
+    "testealanbeta": "^1.0.3"
   }
 }
