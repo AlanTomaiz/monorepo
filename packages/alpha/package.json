@@ -1,13 +1,6 @@
 {
   "name": "alpha",
-  "version": "0.0.3",
+  "version": "0.0.0",
   "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "gitHead": "e7c4b8dd5fced71a41d10b94aeb2494fe0e3e61f"
+  "main": "index.js"
 }
