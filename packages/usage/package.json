@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "dependencies": {
-    "alpha": "^0.1.5",
-    "beta": "^0.1.5"
+    "testealanalpha": "^1.0.1",
+    "testealanbeta": "^1.0.0"
   }
 }
