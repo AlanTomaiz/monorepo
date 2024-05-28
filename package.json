@@ -7,7 +7,7 @@
   "scripts": {
     "lerna": "lerna"
   },
-  "devDependencies": {
+  "dependencies": {
     "lerna": "4.0.0"
   }
 }
