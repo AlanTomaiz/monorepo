@@ -1,8 +1,17 @@
 {
+  "npmClient": "pnpm",
+  "useWorkspaces": true,
+  "version": "0.0.0",
   "packages": [
     "packages/*"
   ],
-  "private": true,
-  "version": "0.0.2-alpha.0",
-  "npmClient": "npm"
+  "comand": {
+    "version": {
+      "exact": true
+    },
+    "publish": {
+      "npmClient": "npm",
+      "registry": "https://registry.npmjs.org/"
+    }
+  }
 }
